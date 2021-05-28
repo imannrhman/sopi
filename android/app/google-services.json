@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720545138343",
+    "firebase_url": "https://amstrproj-default-rtdb.firebaseio.com",
+    "project_id": "amstrproj",
+    "storage_bucket": "amstrproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720545138343:android:6a5d183128735755d7bd82",
+        "android_client_info": {
+          "package_name": "com.imannurohman.sopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720545138343-ijbpehh822mpr1igr3elojh8g7kumabs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mV-OM0GoyGSnP61zEV80njNcrgvvldQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720545138343-ijbpehh822mpr1igr3elojh8g7kumabs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
